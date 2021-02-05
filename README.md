@@ -7,6 +7,8 @@ Apples (different varieties: Golden, Golden-Red, Granny Smith, Red, Red Deliciou
 
 ## Dataset properties ##
 
+Link: https://www.kaggle.com/moltean/fruits
+
 Total number of images: 55244.
 
 Training set size: 41322 images (one fruit per image).
